@@ -1,0 +1,29 @@
+_repo: The-Collectors--13-Being-Cases-mostly-under-the-Ninth-and-Tenth-Commandments_13114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mather, Frank Jewett
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4840'
+    url: http://www.gutenberg.org/2009/agents/4840
+description: ''
+gutenberg_issued: '2004-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Art -- Collectors and collecting -- Fiction'
+tableOfContents: A ballade of art collectors -- Campbell Corot -- The Del Puente Giorgione
+  -- The Lombard runes -- Their cross -- The missing St. Michael -- The lustred pots
+  -- The Balaklava coronal -- On art collecting.
+title: "The Collectors\r\nBeing Cases mostly under the Ninth and Tenth Commandments"
+url: http://www.gutenberg.org/ebooks/13114
